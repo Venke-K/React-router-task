@@ -5,4 +5,74 @@
   text-decoration: underline;
  
 }
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
 
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.home {
+  text-align: center;
+  padding: 50px;
+}
+
+.career-form {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.career-form h2 {
+  margin-bottom: 20px;
+}
+
+.career-form div {
+  margin-bottom: 15px;
+}
+
+.career-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.career-form input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.career-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.career-form button:hover {
+  background-color: #0056b3;
+}
