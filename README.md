@@ -1,8 +1,11 @@
-# React + Vite
+# React Router Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Requirement of this Task:
 
-Currently, two official plugins are available:
+The webpage contains the following NavBar Functionalities All , full stack development, Data science , Cyber Security & Career As Navigation menu
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create that navigation to courses using react router dom and add the contents as static as given in pages.
+
+ultimate requirement of this task is , need to use react router dom , using that function navbar should navigate to appropiate field.
+
+
